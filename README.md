@@ -1,2 +1,2 @@
-Plugin--LW-Forcehttps
-=====================
+Plugin--LW-Forcehttps!
+======================
